@@ -1,13 +1,12 @@
 {
-  "name": "bingo-game",
+  "name": "your-project-name",
   "version": "1.0.0",
-  "description": "Bingo game for multiplayer",
-  "main": "main.js",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "start": "node main.js"
+    "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.17.1",
-    "socket.io": "^4.0.1"
+    // your dependencies here
   }
 }
